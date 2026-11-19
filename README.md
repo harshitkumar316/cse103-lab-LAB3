@@ -2,7 +2,7 @@
 
 ![Last Commit](https://img.shields.io/github/last-commit/harshitkumar316/cse103-lab-LAB3)
 ![Language](https://img.shields.io/badge/status-active-brightgreen)
-![Status](https://shields.io)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ## Overview
 This repository contains lab work for LAB 3 of the Computer Fundamentals & Career Pathways (CSE103) course at K.R. Mangalam University, Gurugram.
