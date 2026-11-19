@@ -1,7 +1,7 @@
 # CSE103 Lab — LAB 3: GitHub Collaboration & API Interaction
 
-![Last Commit](https://shields.io)
-![Language](https://shields.io)
+![Last Commit](https://img.shields.io/github/last-commit/harshitkumar316/cse103-lab-LAB3)
+![Language](https://img.shields.io/badge/status-active-brightgreen)
 ![Status](https://shields.io)
 
 ## Overview
